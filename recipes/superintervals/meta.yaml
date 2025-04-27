@@ -45,6 +45,7 @@ extra:
     - kcleal
   additional-platforms:
     - linux-aarch64
+    - osx-arm64
   container:
     extended-base: true
   skip-lints:
